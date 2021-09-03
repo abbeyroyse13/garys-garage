@@ -1,0 +1,16 @@
+C:\Users\16154\workspace\vehicles\obj\Debug\net5.0\vehicles.csproj.AssemblyReference.cache
+C:\Users\16154\workspace\vehicles\obj\Debug\net5.0\vehicles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\16154\workspace\vehicles\obj\Debug\net5.0\vehicles.AssemblyInfoInputs.cache
+C:\Users\16154\workspace\vehicles\obj\Debug\net5.0\vehicles.AssemblyInfo.cs
+C:\Users\16154\workspace\vehicles\obj\Debug\net5.0\vehicles.csproj.CoreCompileInputs.cache
+C:\Users\16154\workspace\vehicles\bin\Debug\net5.0\vehicles.exe
+C:\Users\16154\workspace\vehicles\bin\Debug\net5.0\vehicles.deps.json
+C:\Users\16154\workspace\vehicles\bin\Debug\net5.0\vehicles.runtimeconfig.json
+C:\Users\16154\workspace\vehicles\bin\Debug\net5.0\vehicles.runtimeconfig.dev.json
+C:\Users\16154\workspace\vehicles\bin\Debug\net5.0\vehicles.dll
+C:\Users\16154\workspace\vehicles\bin\Debug\net5.0\ref\vehicles.dll
+C:\Users\16154\workspace\vehicles\bin\Debug\net5.0\vehicles.pdb
+C:\Users\16154\workspace\vehicles\obj\Debug\net5.0\vehicles.dll
+C:\Users\16154\workspace\vehicles\obj\Debug\net5.0\ref\vehicles.dll
+C:\Users\16154\workspace\vehicles\obj\Debug\net5.0\vehicles.pdb
+C:\Users\16154\workspace\vehicles\obj\Debug\net5.0\vehicles.genruntimeconfig.cache
