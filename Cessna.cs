@@ -12,7 +12,7 @@ namespace Garage
         }
         public override void Drive()
         {
-            Console.WriteLine("Zoooooooom!");
+            Console.WriteLine("The Navy Blue Cessna goes by. Zoooooooom!");
         }
     }
 }

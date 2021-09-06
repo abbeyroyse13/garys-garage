@@ -9,7 +9,7 @@ namespace Garage
 
         public virtual void Drive()
         {
-            Console.WriteLine("Vrooom!");
+            // Console.WriteLine("Vrooom!");
         }
     }
 }
