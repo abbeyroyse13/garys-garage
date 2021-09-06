@@ -14,5 +14,13 @@ namespace Garage
         {
             Console.WriteLine("The Navy Blue Cessna goes by. Zoooooooom!");
         }
+        public override void Stop()
+        {
+            Console.WriteLine("The Navy Blue Cessna comes to a stop on the runway.");
+        }
+        // public override void Turn(string direction)
+        // {
+        //     Console.WriteLine("The Navy Blue Cessna turned $"{direction}" on the runway.");
+        // }
     }
 }
