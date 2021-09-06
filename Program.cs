@@ -19,6 +19,10 @@ namespace Garage
             modelS.Drive();
             mx410.Drive();
             trx.Drive();
+
+            mx410.Stop();
+
+            mx410.Turn(right);
         }
     }
 }
