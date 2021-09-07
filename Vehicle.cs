@@ -6,16 +6,18 @@ namespace Garage
     {
         public string MainColor { get; set; }
         public int MaximumOccupancy { get; set; }
-        public Turn(string direction) { get; set; }
-        public string Stop { get; set; }
 
         public virtual void Drive()
         {
-            // Console.WriteLine("Vrooom!");
+            Console.WriteLine("Vrooom!");
         }
         public virtual void Stop()
         {
-            
+            Console.WriteLine("Vehicle stops here!");
+        }
+        public virtual void Turn(string direction)
+        {
+            Console.WriteLine($"Turning! {direction}");
         }
     }
 }

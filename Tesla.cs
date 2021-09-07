@@ -14,5 +14,13 @@ namespace Garage
         {
             Console.WriteLine("The Aquamarine Tesla goes by. Brooooommm!");
         }
+        public override void Turn(string direction)
+        {
+            Console.WriteLine($"The Aquamarine Tesla turns {direction} in the parking lot.");
+        }
+        public override void Stop()
+        {
+            Console.WriteLine("The Aquamarine Tesla comes to a halt in front of the old folks home.");
+        }
     }
 }
