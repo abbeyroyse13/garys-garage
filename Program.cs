@@ -16,13 +16,21 @@ namespace Garage
             Ram trx = new Ram();
 
             fxs.Drive();
+            fxs.Turn("right");
+            fxs.Stop();
+            Console.WriteLine(" ");
             modelS.Drive();
+            modelS.Turn("left");
+            modelS.Stop();
+            Console.WriteLine(" ");
             mx410.Drive();
-            trx.Drive();
-
             mx410.Stop();
+            mx410.Turn("right");
+            Console.WriteLine(" ");
+            trx.Drive();
+            trx.Turn("left");
+            trx.Stop();
 
-            mx410.Turn(right);
         }
     }
 }
